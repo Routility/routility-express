@@ -2,18 +2,18 @@
   "name": "routility-express",
   "version": "0.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "./lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Routility/routility-express.git"
   },
-  "author": "",
+  "author": "Daiwei Lu <daiweilu123@gmail.com> (http://daiwei.lu)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Routility/routility-express/issues"
   },
-  "homepage": "https://github.com/Routility/routility-express#readme"
+  "homepage": "https://github.com/Routility/routility-express#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
